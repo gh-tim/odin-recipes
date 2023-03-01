@@ -1,0 +1,32 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #ffccb3;
+}
+
+.header,
+.para {
+    text-align: center;
+}
+
+.header {
+    text-decoration: underline;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    font-size: 25px;
+    padding: 15px;
+    border: 5px solid white;
+    height: 75px;
+    width: 360px;
+}
+
+.link:hover {
+    background-color: #da9c7d;
+    color: #fff;
+}
